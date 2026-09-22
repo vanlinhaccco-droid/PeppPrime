@@ -1,0 +1,7 @@
+No special privacy permissions are required for this app.
+
+In Xcode:
+- Deployment Target: iOS 18.0+
+- Interface: SwiftUI
+- Language: Swift
+- Bundle identifier: choose your own unique identifier, e.g. com.yourname.peppa-aim
